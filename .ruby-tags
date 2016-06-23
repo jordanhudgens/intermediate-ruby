@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Array	algorithms/07D_quicksort.rb	/^class Array$/;"	c
+HTTParty	.oh-my-zsh/plugins/cloudapp/cloudapp.rb	/^class HTTParty::Response$/;"	c
+Invoice	metaprogramming/04D_method_missing.rb	/^class Invoice$/;"	c
+MyClass	metaprogramming/04C_opening_classes.rb	/^class MyClass$/;"	c
+MyLogger	error handling/05D_error_logger.rb	/^module MyLogger$/;"	m
+TeamReport	metaprogramming/04E_define_method.rb	/^class TeamReport$/;"	c
+binary_search	algorithms/07E_binary_search.rb	/^def binary_search(array, key, low = 0, high = array.size - 1)$/;"	f
+building_blocks	blocks/02A_building_blocks.rb	/^def building_blocks num$/;"	f
+convert_to_slug	conditionals/001E_guard.rb	/^def convert_to_slug(str)$/;"	f
+custom_logger	blocks/02B_block_given_1.rb	/^def custom_logger$/;"	f
+customer	metaprogramming/04D_method_missing.rb	/^  def customer$/;"	f	class:Invoice
+customer_information	blocks/02B_block_given_2.rb	/^def customer_information$/;"	f
+details	blocks/02B_block_given_2.rb	/^def details$/;"	f
+divider	error handling/05C_antipatterns.rb	/^def divider(num1, num2)$/;"	f
+html_printer	blocks/02B_yield.rb	/^def html_printer(&block)$/;"	f
+initialize	metaprogramming/04D_method_missing.rb	/^  def initialize(name, location, good_standing)$/;"	f	class:Invoice
+insertion_sort	algorithms/07C_insertion_sort.rb	/^def insertion_sort array$/;"	f
+invoice_generator	blocks/02B_block_given_2.rb	/^def invoice_generator(invoice, total, &block)$/;"	f
+method_missing	metaprogramming/04D_method_missing.rb	/^  def method_missing(method_name, *args, &block)$/;"	f	class:Invoice
+method_one	procs and lambdas/03C_proc_v_lambda.rb	/^def method_one$/;"	f
+method_two	procs and lambdas/03C_proc_v_lambda.rb	/^def method_two$/;"	f
+my_block	blocks/02B_block_given_1.rb	/^def my_block(&block)$/;"	f
+my_method	metaprogramming/04C_opening_classes.rb	/^  def my_method$/;"	f	class:MyClass
+ok?	.oh-my-zsh/plugins/cloudapp/cloudapp.rb	/^  def ok? ; true end$/;"	f	class:HTTParty
+quicksort	algorithms/07D_quicksort.rb	/^  def quicksort$/;"	f	class:Array
+respond_to_missing?	metaprogramming/04D_method_missing.rb	/^  def respond_to_missing?(method_name, include_private = false)$/;"	f	class:Invoice
+save_log	error handling/05D_error_logger.rb	/^  def self.save_log(e)$/;"	F	class:MyLogger
